@@ -10,4 +10,4 @@ def my_each(array) # put argument(s) here
 end
 
 
-print my_each(['hi', 'hello', 'bye', 'goodbye'])
+print my_each{['hi', 'hello', 'bye', 'goodbye']}
