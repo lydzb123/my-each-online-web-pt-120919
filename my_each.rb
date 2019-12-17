@@ -6,3 +6,5 @@ def my_each(array) # put argument(s) here
   yield(n)
  end
 end
+
+my_each {}
